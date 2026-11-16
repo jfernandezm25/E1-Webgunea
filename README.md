@@ -3,3 +3,4 @@
 # Erronka 1
 
 GameStop-eko Webgunea
+zumbeltz bomba
